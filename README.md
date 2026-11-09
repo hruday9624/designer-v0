@@ -216,3 +216,7 @@ read `design-reviewer.md` as its instructions.
   skill says plainly when a step could not run.
 - For the long version with the compatibility table, troubleshooting and change log, read
   `skills/designer/workflow-guide.md`.
+
+## Licence
+
+MIT. See `LICENSE`. The skills and tools this one calls (Playwright, ui-ux-pro-max, design-motion-principles, taste-skill, the Chrome extension) are separate projects with their own licences.
